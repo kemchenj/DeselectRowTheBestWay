@@ -12,6 +12,7 @@
 		C894F3E321D1149D00C9940E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C894F3E221D1149D00C9940E /* Assets.xcassets */; };
 		C894F3E621D1149D00C9940E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C894F3E421D1149D00C9940E /* LaunchScreen.storyboard */; };
 		C894F3EE21D114D500C9940E /* UITableView+deselect.swift in Sources */ = {isa = PBXBuildFile; fileRef = C894F3ED21D114D500C9940E /* UITableView+deselect.swift */; };
+		C894F3F021D1189700C9940E /* UIColor+random.swift in Sources */ = {isa = PBXBuildFile; fileRef = C894F3EF21D1189700C9940E /* UIColor+random.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C894F3E521D1149D00C9940E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C894F3E721D1149D00C9940E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C894F3ED21D114D500C9940E /* UITableView+deselect.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UITableView+deselect.swift"; sourceTree = "<group>"; };
+		C894F3EF21D1189700C9940E /* UIColor+random.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+random.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				C894F3DB21D1149A00C9940E /* AppDelegate.swift */,
 				C894F3DD21D1149A00C9940E /* ViewController.swift */,
 				C894F3ED21D114D500C9940E /* UITableView+deselect.swift */,
+				C894F3EF21D1189700C9940E /* UIColor+random.swift */,
 				C894F3E221D1149D00C9940E /* Assets.xcassets */,
 				C894F3E421D1149D00C9940E /* LaunchScreen.storyboard */,
 				C894F3E721D1149D00C9940E /* Info.plist */,
@@ -134,6 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C894F3F021D1189700C9940E /* UIColor+random.swift in Sources */,
 				C894F3DE21D1149A00C9940E /* ViewController.swift in Sources */,
 				C894F3DC21D1149A00C9940E /* AppDelegate.swift in Sources */,
 				C894F3EE21D114D500C9940E /* UITableView+deselect.swift in Sources */,
